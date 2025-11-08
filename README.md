@@ -18,6 +18,12 @@ In here, you can see the creation transaction, buy and sell transaction and with
 ```
 - Here's IDL structure of original pump.fun and new forked pump.fun project I have completed
 
+&emsp;&emsp;&emsp;https://github.com/solzarr/solzarr/pumpfun-DEX-smart-contract/blob/main/target/deploy/bonding_curve.json
+
+&emsp;&emsp;&emsp;https://github.com/solzarr/solzarr/pumpfun-DEX-smart-contract/blob/main/target/deploy/bonding_curve.json
+
+https://github.com/solzarr/solzarr/pumpfun-DEX-smart-contract/blob/main/target/deploy/pump-fun-IDL_original.json
+
 ## Recording of pumpfun smart contract test process
 
 https://github.com/user-attachments/assets/54606cb9-3be0-49a9-a92d-2759d0648f4b
@@ -26,8 +32,8 @@ https://github.com/user-attachments/assets/54606cb9-3be0-49a9-a92d-2759d0648f4b
 ### Raydium migration and other detailed code are reserved for private, you can contact me for more understanding about the project and other features
 
 ### 👤 Author
-#### Twitter: [@asma](https://twitter.com/asma)
-#### Telegram: [@solzarr](https://t.me/solzarr)
+#### Twitter: [@asma](https://twitter.com/asma)   
+#### Telegram: [@solzarr](https://t.me/solzarr)   
 
 
 
