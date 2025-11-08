@@ -17,12 +17,12 @@ In here, you can see the creation transaction, buy and sell transaction and with
     - rustc : v1.75.0 
 ```
 - Here's IDL structure of original pump.fun and new forked pump.fun project I have completed
+<pre>
+https://github.com/solzarr/pumpfun-DEX-smart-contract/blob/main/target/deploy/bonding_curve.json 
 
-&emsp;&emsp;&emsp;https://github.com/solzarr/solzarr/pumpfun-DEX-smart-contract/blob/main/target/deploy/bonding_curve.json
+https://github.com/solzarr/pumpfun-DEX-smart-contract/blob/main/target/deploy/pump-fun-IDL_original.json
+</pre>
 
-&emsp;&emsp;&emsp;https://github.com/solzarr/solzarr/pumpfun-DEX-smart-contract/blob/main/target/deploy/bonding_curve.json
-
-https://github.com/solzarr/solzarr/pumpfun-DEX-smart-contract/blob/main/target/deploy/pump-fun-IDL_original.json
 
 ## Recording of pumpfun smart contract test process
 
